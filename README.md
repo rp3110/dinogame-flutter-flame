@@ -46,7 +46,7 @@ So, In this project I have created a basic "DinoRun" game.
 -  [Flame Docs 1.6.0](https://docs.flame-engine.org/1.6.0/ "Flame Docs 1.6.0")
 
 # Preview
-[![Preview](https://bitbucket.org/rutu31/dinogame/raw/262e7759492c858598603c10efa68c7327de3046/screenshot/preview_ss.png "Preview")](https://bitbucket.org/rutu31/dinogame/raw/262e7759492c858598603c10efa68c7327de3046/screenshot/preview_ss.png "Preview")
+[![Preview](https://raw.githubusercontent.com/rp3110/dinogame-flutter-flame/main/screenshot/preview_ss.png "Preview")](https://raw.githubusercontent.com/rp3110/dinogame-flutter-flame/main/screenshot/preview_ss.png "Preview")
 # Created By
 - Rutu Hirapara
 
