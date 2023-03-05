@@ -3,7 +3,7 @@
 Flame is a modular Flutter game engine that provides a complete set of out-of-the-way solutions for games. It takes advantage of the powerful infrastructure provided by Flutter but simplifies the code you need to build your projects.
 So, In this project I have created a basic "DinoRun" game.
 
-[![Flame logo](https://bitbucket.org/rutu31/dinogame/raw/262e7759492c858598603c10efa68c7327de3046/screenshot/flame_logo.png "Flame logo")](https://bitbucket.org/rutu31/dinogame/raw/262e7759492c858598603c10efa68c7327de3046/screenshot/flame_logo.png "Flame logo")
+[![Flame logo](https://github.com/rp3110/dinogame-flutter-flame/blob/main/screenshot/flame_logo.png "Flame logo")
 
 - Flutter App
 - Flame
